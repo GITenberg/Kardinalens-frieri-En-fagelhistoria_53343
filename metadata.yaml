@@ -1,5 +1,5 @@
 _repo: Kardinalens-frieri-En-fagelhistoria_53343
-_version: 0.1.0
+_version: 0.2.0
 alternative_title: The song of the cardinal. Swedish
 contributor:
   translator:
@@ -9,6 +9,9 @@ contributor:
     gutenberg_agent_id: '46437'
     url: http://www.gutenberg.org/2009/agents/46437
     wikipedia: https://sv.wikipedia.org/wiki/Ernst_Lundquist
+covers:
+- cover_type: archival
+  image_path: 53343-h/images/cover.jpg
 creator:
   author:
     agent_name: Stratton-Porter, Gene
@@ -18,6 +21,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/71
     wikipedia: http://en.wikipedia.org/wiki/Gene_Stratton_Porter
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/53343#Kardinalens-frieri-En-fagelhistoria
 gutenberg_bookshelf: General Fiction
 gutenberg_issued: '2016-10-22'
 gutenberg_type: Text
